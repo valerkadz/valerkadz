@@ -1,0 +1,6 @@
+nak = []
+print('Введите доходы за 6 мес')
+for i in range(6):
+    doh = int(input('Введите доходы за 6 мес: '))
+    nak.append(doh)
+    print(nak)
