@@ -1,0 +1,6 @@
+films = []
+for i in range(3):
+print (i)
+film = input(‘введите фильм’)
+films.append(film)
+print(films)
